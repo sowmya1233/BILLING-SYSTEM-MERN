@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.9.0",
     "bwip-js": "^4.5.1",
+    "jsbarcode": "^3.11.6",
     "jwt-decode": "^4.0.0",
     "react": "^18.2.0",
     "react-barcode-reader": "^0.0.2",
